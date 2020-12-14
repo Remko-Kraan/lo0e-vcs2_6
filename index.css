@@ -2732,5 +2732,10 @@ h1 {
     transform: translate(30.2657vw, 100vh) scale(0.1425);
   }
 }
-
+.docent {
+  color: white;
+}
+.student {
+  color: white;
+}
 /*# sourceMappingURL=index.css.map */
